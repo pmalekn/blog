@@ -1,0 +1,6 @@
+baseURL = "https://pmalek.xyz/"
+languageCode = "en-us"
+title = "Blog"
+theme = "tale"
+[Author]
+    name = "Patryk"
